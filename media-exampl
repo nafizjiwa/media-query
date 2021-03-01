@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+      <head>
+      <meta charset="utf-8">
+      <link></link>
+      <title></title>
+          <styles>
+          h1 {
+            font-size: 30px;
+            }
+        @media (min-width:900px) and (max-width:1000px){
+          h1 {
+            color: red;
+          }
+
+          } 
+
+          </styles>
+      </head>
+  <body>
+    <h1>Hello World<h1/>
+    
+  </body>
+</html>
